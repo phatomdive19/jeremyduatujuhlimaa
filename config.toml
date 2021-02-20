@@ -1,0 +1,4 @@
+baseURL = "https://carmodel-xeet.vercel.app"
+languageCode = "en-us"
+title = "Tesla Model  x Performance"
+theme = "hugo-theme-minos"
